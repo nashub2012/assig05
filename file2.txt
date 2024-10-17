@@ -1,2 +1,2 @@
 line 1 in file2 on master branch
-
+line 2 in file2 added on branch FeatureB

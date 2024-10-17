@@ -1,1 +1,2 @@
 line 1 in file file1 on master branch
+line 2 in file file1 added on branch FeatureA
